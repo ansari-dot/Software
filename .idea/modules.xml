@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Software.iml" filepath="$PROJECT_DIR$/Software.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/lab2.iml" filepath="$PROJECT_DIR$/lab2.iml" />
+>>>>>>> d40e086 (Initial commit with observer pattern project)
     </modules>
   </component>
 </project>
